@@ -1,5 +1,12 @@
 # Contributing
 
+Contributing to this open-source project can be a rewarding way to learn, teach, and build experience about any targeted skill you want to build and not only in term of development.This is why the reasons to contribute to such project could vary from contributor to another, based on their motivation, as the following:
+  - Some contributors could be among the beneficiaries of this platform by find job or post one. When finding bugs, they can patch it by themselves in order to get new updated     release for better experience
+  - Improving skills Whether it’s coding, user interface design, graphic design, writing, or organizing, if a contributor looking for practice, there’s a task for him/her.
+  - Meeting people who are interested in similar things, so an open-source project builds a community by itself.
+  -Finding mentors and peer-learning, so such project could be an opportunity to share knowledge skills and learn from each other.So, the acts of learning and teaching can be a fulfilling activity for everyone involved
+  - Taking credits on contribution so contributors can demonstrate their work and participation without restriction when they need to (CV, Portfolio).-Having the fun as writing  a program 
+  - Believing that source code should be open for the benefit of all, so against the propriety of software.
 ## Quick Start
 
 Fork this project, then:

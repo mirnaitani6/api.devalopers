@@ -21,7 +21,7 @@ Make sure you have installed all of the following prerequisites on your developm
 * Node.js - [Download & Install Node.js](https://nodejs.org/en/download/) and the npm package manager.
 * MongoDB - [Download & Install MongoDB](http://www.mongodb.org/downloads), and make sure it's running on the default port (27017).
 
-* Copy `.env.example` and rename it to `.env` 
+* Copy `.env.example` and rename it to `.env`  
 
 ## Installing Devalopers Backend
 
